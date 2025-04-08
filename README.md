@@ -1,6 +1,6 @@
-# GraphQL Run Scan
+# BurPy
 
-This project is a Python-based tool to automate web application security scans using Burp Suite's GraphQL API. It allows you to create a site, start a scan, monitor its progress, and retrieve the results programmatically.
+This project is a Python-based tool to automate web application security scans using Burp Suite's GraphQL API (called BurPy). It allows you to create a site, start a scan, monitor its progress, and retrieve the results programmatically.
 
 ## Features
 
